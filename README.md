@@ -1,4 +1,4 @@
-# tool_compare_excel.rb
+# tool compare excel dupplicate
 
 ============= SETTING ENVIROMENT=================
 + WINDOW ENVIROMENT
@@ -26,7 +26,7 @@
 ll write_xlsx
 3. type and enter: ruby compare_excel.rb 
 + ![Screenshot from 2022-09-07 09-56-26](https://user-images.githubusercontent.com/54847531/188778599-10e82244-cfbe-4921-b920-bf161268caff.png)
-4. waiting 3 minutes, When done, check file Convert.xlsx
+4. waiting 3 minutes, When done, check file Convert.xlsx (file not duplicate)
 + ![Screenshot from 2022-09-07 10-00-16](https://user-images.githubusercontent.com/54847531/188779039-2d92c2bc-7b99-4a5a-81b4-b9487105026c.png)
 + ![Screenshot from 2022-09-07 10-00-16](https://user-images.githubusercontent.com/54847531/188779169-4958384b-8ccf-4acd-a4ab-efe135b8df5f.png)
 + =============DONE===========
