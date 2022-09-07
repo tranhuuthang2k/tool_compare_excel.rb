@@ -10,7 +10,7 @@
 + ![image](https://user-images.githubusercontent.com/54847531/188776684-3f961c28-8355-49e3-a505-8bc565a6bfe0.png)
 + type 3
 * ===========================
-+ LINUX
++ IF YOU USE LINUX THEN
 1. sudo apt update
 2. sudo apt install ruby-full
 + ![image](https://user-images.githubusercontent.com/54847531/188776811-03818505-6d9a-45d3-a589-6f3aff772bc5.png)
