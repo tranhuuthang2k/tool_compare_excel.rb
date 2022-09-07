@@ -12,7 +12,7 @@ type 3
 + LINUX
 1. sudo apt update
 2. sudo apt install ruby-full
-![image](https://user-images.githubusercontent.com/54847531/188776811-03818505-6d9a-45d3-a589-6f3aff772bc5.png)
++ ![image](https://user-images.githubusercontent.com/54847531/188776811-03818505-6d9a-45d3-a589-6f3aff772bc5.png)
 ==========HOW TO USE===============
 1. accsess folder tool_compare_excel
 2. terminal: 
