@@ -8,7 +8,7 @@
 + ![image](https://user-images.githubusercontent.com/54847531/188776660-ef18ec25-b6ed-4d2c-9f99-50a1215db62f.png)
 + ![image](https://user-images.githubusercontent.com/54847531/188776677-2b95f14f-0325-4035-8e3f-961380643c30.png)
 + ![image](https://user-images.githubusercontent.com/54847531/188776684-3f961c28-8355-49e3-a505-8bc565a6bfe0.png)
-+ type 3
++ type and enter: 3
 * ===========================
 + IF YOU USE LINUX THEN
 1. sudo apt update
