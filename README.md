@@ -18,5 +18,5 @@
 2. Press type terminal: 
 ruby compare_excel.rb
 3. When done, check file Convert.xlsx
-*=============DONE===========
++ =============DONE===========
 
