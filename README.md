@@ -18,7 +18,7 @@
 1. DOWLOAD TOOL: 
 + Click code > dowload zip
 + ![Screenshot from 2022-09-07 09-52-50](https://user-images.githubusercontent.com/54847531/188778280-5df5ed50-c260-48cc-8626-bd94c2e29678.png)
-2. accsess folder tool_compare_excel
+2. open folder tool_compare_excel
 3. Press type terminal: 
 + gem install creek
 + gem install write_xlsx
