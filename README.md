@@ -23,7 +23,6 @@
 + gem install creek
 + gem install write_xlsx
 + ![Screenshot from 2022-09-07 09-55-35](https://user-images.githubusercontent.com/54847531/188778498-17f1944c-d882-4c52-82ba-003ea3154158.png)
-ll write_xlsx
 3. type and enter: ruby compare_excel.rb 
 + ![Screenshot from 2022-09-07 09-56-26](https://user-images.githubusercontent.com/54847531/188778599-10e82244-cfbe-4921-b920-bf161268caff.png)
 4. waiting 3 minutes, When done, check file Convert.xlsx (file not duplicate)
