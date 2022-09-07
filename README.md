@@ -1,7 +1,7 @@
 # tool_compare_excel.rb
 ============= SETTING ENVIROMENT=================
 + WINDOW ENVIROMENT
-https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.1.2-1/rubyinstaller-devkit-3.1.2-1-x64.exe
++ CLICK: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.1.2-1/rubyinstaller-devkit-3.1.2-1-x64.exe
 ![image](https://user-images.githubusercontent.com/54847531/188776648-a15a3356-473a-4bc8-80ec-d8f64374c918.png)
 ![image](https://user-images.githubusercontent.com/54847531/188776655-2780f2cf-628a-4c08-b6cc-0d20b5fd87c5.png)
 ![image](https://user-images.githubusercontent.com/54847531/188776660-ef18ec25-b6ed-4d2c-9f99-50a1215db62f.png)
