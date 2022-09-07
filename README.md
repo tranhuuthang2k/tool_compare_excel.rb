@@ -15,7 +15,7 @@ type 3
 + ![image](https://user-images.githubusercontent.com/54847531/188776811-03818505-6d9a-45d3-a589-6f3aff772bc5.png)
 * ==========HOW TO USE===============
 1. accsess folder tool_compare_excel
-2. terminal: 
+2. Press type terminal: 
 ruby compare_excel.rb
 3. When done, check file Convert.xlsx
 =============DONE===========
